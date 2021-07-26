@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "greeting": "Welcome to AnyCompany {{user_first_name}}! Click get started to enjoy our sample automated messaging experience."
+  },
+  "menu": {
+    "order": "Menu 1",
+    "help": "Menu 2",
+    "suggestion": "Menu 3",
+    "shop": "Menu 4",
+    "start_over": "Menu 5"
+  },
+  "get_started": {
+    "welcome": "Hi! Welcome to AnyCompany.",
+    "guidance": "At any time, use the menu below to navigate through the features",
+    "help": "What we can do to help you today?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "greeting": "Bem-vindo(a) à AnyCompany {{user_first_name}}! Clique em Começar para conferir nosso exemplo de experiência de mensagens automáticas."
+  },
+  "menu": {
+    "order": "Menu 1",
+    "help": "Menu 2",
+    "suggestion": "Menu 3",
+    "shop": "Menu 4",
+    "start_over": "Menu 5"
+  },
+  "get_started": {
+    "welcome": "Oi! Bem-vindo(a) à AnyCompany.",
+    "guidance": "A qualquer momento, use o menu abaixo para navegar pelos recursos",
+    "help": "Como podemos ajudar hoje?"
+  }
+}
